@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pavlibalu
-- 👀 I’m interested in front-end.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on website development.
-- 📫 How to reach me: send me e-mail (pavlibalu8@gmail.com) or contact on Discord (baluka#5045)
+- 👀 I’m interested in front-end and discord bots.
+- 🌱 I’m currently learning python.
+- 📫 How to reach me: contact @balu_ka on Discord or send me an email: pavlibalu8@gmail.com
 
 <!---
 pavlibalu/pavlibalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
